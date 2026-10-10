@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"期刊论文助手：选题→IMRaD框架→分节写作→图表规范→投稿前自查→返修信，学术诚信先行","name":"lhg-paper","source":"./"}]}
